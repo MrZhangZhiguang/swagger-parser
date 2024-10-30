@@ -2,8 +2,8 @@ openapi: 3.0.0
 servers:
   - url: 'http://petstore.swagger.io/api'
 info:
-  version: 1.0.1
-  title: Swagger Petstore (Simple) hello world.
+  version: 1.0.2
+  title: Swagger Petstore (Simple) hello world. and say hi.
   description: >-
     A sample API that uses a petstore as an example to demonstrate features in
     the swagger-2.0 specification
